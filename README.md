@@ -65,7 +65,7 @@ This design avoids additional costs by:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/aws-devsecops-react-app.git
+    git clone https://github.com/r-ramos2/aws-devsecops-react-app.git
     cd aws-devsecops-react-app
     ```
 2. Initialize and apply Terraform:
