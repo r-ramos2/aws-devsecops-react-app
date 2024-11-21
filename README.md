@@ -1,4 +1,4 @@
-# AWS DevSecOps Amazon App: Secure CI/CD Pipeline with Terraform
+# AWS DevSecOps React App: Secure CI/CD Pipeline with Terraform
 
 ## Table of Contents
 - [Introduction](#introduction)
