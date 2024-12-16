@@ -13,7 +13,7 @@ variable "ami_id" {
 variable "instance_type" {
   description = "Type of EC2 instance"
   type        = string
-  default     = "t2.micro"  # Free-tier eligible instance type (t2.medium recommended)
+  default     = "t2.medium"  # Not free-tier eligible instance type (t2.large recommended)
 }
 
 variable "key_pair_name" {
