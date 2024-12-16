@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/r-ramos2/aws-devsecops-react-app.git'  // Your Git repo URL
+                git branch: 'main', url: 'https://github.com/r-ramos2/secure-ci-cd-pipeline-with-jenkins-and-terraform-for-owasp-compliance.git'  // Your Git repo URL
             }
         }
         stage('SonarQube Analysis') {
