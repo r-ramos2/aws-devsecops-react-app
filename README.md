@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
+- [Architecure Diagram](#architecture-diagram)
 - [Security Best Practices](#security-best-practices)
 - [Prerequisites](#prerequisites)
 - [Project Setup and Execution](#project-setup-and-execution)
@@ -27,6 +28,12 @@ This project includes deploying:
 - **React**: A frontend application deployed for demonstration.
 
 All services run on a single `t2.medium` EC2 instance to consolidate costs while maintaining sufficient resources.
+
+## Architecture Diagram
+
+<img width="595" alt="architecture-1" src="https://github.com/user-attachments/assets/2af63789-5262-487f-b00e-e9bc59d4ee1f" />
+
+*Architecutre diagram*
 
 ### Cost Considerations
 The `t2.medium` instance, costing approximately $0.0464 per hour in `us-east-1`, provides:
