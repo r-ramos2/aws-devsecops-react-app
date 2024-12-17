@@ -1,4 +1,4 @@
-# AWS DevSecOps React App: Secure CI/CD Pipeline with Terraform
+# Secure CI/CD Pipeline with Jenkins and Terraform for OWASP Compliance
 
 ## Table of Contents
 
